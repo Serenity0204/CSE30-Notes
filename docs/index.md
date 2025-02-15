@@ -8,5 +8,19 @@ Here is a collection of my Notes for CSE 30: Computer Organization at UCSD
 
 
 ## Homework 1
-* topics include TBD </br>
-[Link to Homework 1 content](index.md)
+* topics include floating point conversion, normal and denormal encodings and vice versa.</br>
+[Link to Homework 1 content](pdf/hw1-review.pdf)
+
+
+## Homework 2
+* topics include bitwise operations and masking</br>
+[Link to Homework 2 content](pdf/hw2-review.pdf)
+
+## Homework 3
+* topics include arm assembly branching, loop tracing</br>
+[Link to Homework 3 content](pdf/hw3-review.pdf)
+
+
+## Homework 4
+* topics include arm assembly loops, endianness, arrays, pointers and store/load operations.</br>
+[Link to Homework 4 content](pdf/hw4-review.pdf)
